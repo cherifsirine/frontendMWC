@@ -1,1 +1,1 @@
-const API_URL = 'https://sharepoint-web-app-production.up.railway.app/submit';
+const API_URL = 'https://backendmwc-production.up.railway.app/submit';
